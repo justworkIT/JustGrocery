@@ -5,11 +5,12 @@ check stock at their store, or add it to the shared catalog if it's new.
 
 ## Stack
 
-- Next.js 14 (App Router) + TypeScript + Tailwind
-- Supabase (Postgres + Auth + Row Level Security + Edge Functions)
-- `@zxing/browser` for camera-based barcode scanning
-- Open Food Facts, proxied through a Supabase Edge Function, for
-  auto-filling new product details
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Open Food Facts](https://img.shields.io/badge/Open_Food_Facts-339900?style=flat&logo=openfoodfacts&logoColor=white)
 
 ## Status
 
